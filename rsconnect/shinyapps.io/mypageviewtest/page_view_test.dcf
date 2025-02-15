@@ -1,0 +1,10 @@
+name: page_view_test
+title:
+username: mypageviewtest
+account: mypageviewtest
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 13946604
+bundleId: 9772402
+url: https://mypageviewtest.shinyapps.io/page_view_test/
+version: 1
